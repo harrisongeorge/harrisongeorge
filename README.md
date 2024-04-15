@@ -1,5 +1,6 @@
 ### Hi there 👋
-# 💫 About Me:
+# 💫 About Me: starting to understand Code with the help of AI in the last couple of years, attempting to do something useful.
+
 Artistic facial recognition, video, and photography programs<br><br>Learning, python and attempting certifications in machine learning<br><br>Simple file managers attempting to automate personal processes
 
 
